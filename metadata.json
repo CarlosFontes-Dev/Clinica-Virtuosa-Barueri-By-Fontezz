@@ -1,0 +1,6 @@
+{
+  "name": "Clínica Virtuosa Barueri | Luxury Edition",
+  "description": "Clínica Virtuosa Barueri - Referência em Emagrecimento, Botox, Preenchimento Labial e Estética Avançada em Alphaville, Barueri. Quiet luxury e naturalidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
